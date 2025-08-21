@@ -24,7 +24,6 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    # url: /cv/
     url: /files/Chimaobi_now_resume.pdf/
     
   # - title: "CV"
