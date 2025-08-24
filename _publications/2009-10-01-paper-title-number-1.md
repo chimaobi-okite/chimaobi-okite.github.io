@@ -2,10 +2,9 @@
 title: "Benchmarking and Improving LLM Robustness for Personalized Generation" 
 authors: "Chimaobi Okite, Naihao Deng, Kiran Bodipati, Huaidian Hou, Joyce Chai, Rada Mihalcea" 
 collection: publications 
-permalink: /publication/2009-10-01-paper-title-number-1 
 excerpt: 'This paper highlights the issues associated with the current evaluation approaches in personalization that focus solely on preference alignment and adovate for a multidemnsional evaluation approach instead' 
 date: 2025-08-20 
-venue: 'Findings of the Empirical Methods in Natural Language Processing (EMNLP), 2025' 
+venue: 'Findings of the Empirical Methods in Natural Language Processing (EMNLP)' 
 paperurl: <!-- '[http://academicpages.github.io/files/paper1.pdf](https://dl.acm.org/doi/10.1145/3465336.3475098)' --> 
 citation: 'Chimaobi Okite, Naihao Deng, Kiran Bodipati, Huaidian Hou, Joyce Chai, Rada Mihalcea. (2025). &quot;Benchmarking and Improving LLM Robustness for Personalized Generation&quot; <i>In Findings of the Empirical Methods in Natural Language Processing </i>.' 
 --- 
