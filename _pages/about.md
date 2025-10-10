@@ -29,5 +29,6 @@ TL;DR: I study robust life-long personalization of AI agents – seeking ways to
 
 
 ## Recent News
+- **Oct 2025:** I passed my Prelims! :balloon: :balloon:
 - **Aug 2025:** My first paper, Benchmarking and Improving LLM Robustness for Personalized Generation, just got accepted to EMNLP 2025. See you in Suzhou :yum:
 - **Aug 2024:** Joined the [SLED](http://sled.eecs.umich.edu/) and [LIT](https://lit.eecs.umich.edu/) labs @UofM CSE as a PhD student. #GoBlue :sunglasses:
