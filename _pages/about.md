@@ -25,7 +25,7 @@ A key challenge however is that user goals are dynamic. Therefore, a central foc
 **Robust Personalization:** In optimizing for personalization, how do we ensure robustness - such that aligning user preferences does not affect factuilty of models nor raise saftey concerns. I formalize the notion of robustness in the context of personalization and highlight critical issues with current evaluation approaches that solely focus on alignment [[1]](https://openreview.net/forum?id=Vrs1ycezsN#discussion). By rethinking how we evaluate and design personalized AI systems, I seek to build methods that preserve truthfulness and prevent harmful failure modes, while still adapting meaningfully to diverse user goals.  
 
 
-TL;DR: I study robust life-long personalization of AI agents – seeking ways to better adapt LLMs to user features (implicit, explicit, latent) in a dynamic fashion without compromising saftey and factuality.
+TL;DR: I study robust life-long personalization of AI agents – seeking ways to better adapt LLMs to user features (implicit, explicit, latent) in a dynamic fashion without compromising safety and factuality.
 
 
 ## Recent News
