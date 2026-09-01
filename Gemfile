@@ -11,3 +11,8 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+# Required when running the GitHub Pages/Jekyll 3 stack on modern Windows Ruby.
+gem 'csv'
+gem 'bigdecimal'
+gem 'tzinfo-data'

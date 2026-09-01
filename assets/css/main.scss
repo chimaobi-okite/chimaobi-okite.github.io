@@ -41,3 +41,36 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.experience-entry {
+  margin: 0 0 1.5rem;
+
+  ul {
+    margin-top: 0.45rem;
+  }
+}
+
+.experience-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+
+  span {
+    flex: 0 0 auto;
+    color: var(--global-text-color-light);
+    font-size: 0.9em;
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 600px) {
+  .experience-heading {
+    display: block;
+
+    span {
+      display: block;
+      margin-top: 0.2rem;
+    }
+  }
+}
